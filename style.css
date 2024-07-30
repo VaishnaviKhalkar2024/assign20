@@ -80,14 +80,43 @@ p{
 }
 .heading6{
     background-color: blanchedalmond;
-    width: 300px;
+    width: 950px;
     border-radius: 10px;
     border: 2px solid rgb(209, 173, 119);
     padding: 10px;
     display: flex;
-    flex-direction:column;
     justify-content:start;
+    flex-direction:row;
     margin-top: 10px;
-    text-align: center;
+   text-align: center;
+
 }
+.heading7{
+    background-color: blanchedalmond;
+    width: 950px;
+    border-radius: 10px;
+    border: 2px solid rgb(209, 173, 119);
+    padding: 10px;
+    display: flex;
+    justify-content:center;
+    flex-direction:row;
+    margin-top: 10px;
+   text-align: center;
+   
+}
+.heading8{
+    background-color: blanchedalmond;
+    width: 950px;
+    border-radius: 10px;
+    border: 2px solid rgb(209, 173, 119);
+    padding: 10px;
+    display: flex;
+    justify-content:end;
+    flex-direction:row;
+    margin-top: 10px;
+   text-align: center;
+   
+}
+
+
 
